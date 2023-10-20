@@ -9,7 +9,7 @@ class Program
     static void Main(string[] args)
     {
         #region All
-        /*Console.WriteLine("Linq Methods");
+        Console.WriteLine("Linq Methods");
 
         List<int> numbers = new() { 100, 150, 160, 45 };
 
@@ -24,13 +24,14 @@ class Program
                 allItemsGreater = false;
                 break;
             }
-        }
+        this is the long way of all
+        }*/
         Console.WriteLine(allItemsGreater);
-        Console.ReadLine();*/
+        Console.ReadLine();
         #endregion
 
         #region Any
-        /*List<User> userList = new List<User>
+        List<User> userList = new List<User>
         { 
             new User("TravelExplorer_", 100),
             new User("FoodieAdventures", 10),
@@ -38,11 +39,10 @@ class Program
             new User("ArtisticSoul_", 300),
             new User("FashionistaStyle", 1800)
         };
-        Console.WriteLine(userList.Any(x => x.FollowerCount >= 1000 && x.Username.Contains("Style")));*/
+        Console.WriteLine(userList.Any(x => x.FollowerCount >= 1000 && x.Username.Contains("Style")));
         #endregion
 
         #region Where
-        Console.WriteLine("Person List");
 
         List<Person> people = new List<Person>
            {
