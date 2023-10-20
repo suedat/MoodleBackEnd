@@ -1,0 +1,15 @@
+/Users/suedaturgut/Projects/MoodleBackEnd/Week3_7/bin/Debug/net7.0/Week3_7
+/Users/suedaturgut/Projects/MoodleBackEnd/Week3_7/bin/Debug/net7.0/Week3_7.deps.json
+/Users/suedaturgut/Projects/MoodleBackEnd/Week3_7/bin/Debug/net7.0/Week3_7.runtimeconfig.json
+/Users/suedaturgut/Projects/MoodleBackEnd/Week3_7/bin/Debug/net7.0/Week3_7.dll
+/Users/suedaturgut/Projects/MoodleBackEnd/Week3_7/bin/Debug/net7.0/Week3_7.pdb
+/Users/suedaturgut/Projects/MoodleBackEnd/Week3_7/obj/Debug/net7.0/Week3_7.csproj.AssemblyReference.cache
+/Users/suedaturgut/Projects/MoodleBackEnd/Week3_7/obj/Debug/net7.0/Week3_7.GeneratedMSBuildEditorConfig.editorconfig
+/Users/suedaturgut/Projects/MoodleBackEnd/Week3_7/obj/Debug/net7.0/Week3_7.AssemblyInfoInputs.cache
+/Users/suedaturgut/Projects/MoodleBackEnd/Week3_7/obj/Debug/net7.0/Week3_7.AssemblyInfo.cs
+/Users/suedaturgut/Projects/MoodleBackEnd/Week3_7/obj/Debug/net7.0/Week3_7.csproj.CoreCompileInputs.cache
+/Users/suedaturgut/Projects/MoodleBackEnd/Week3_7/obj/Debug/net7.0/Week3_7.dll
+/Users/suedaturgut/Projects/MoodleBackEnd/Week3_7/obj/Debug/net7.0/refint/Week3_7.dll
+/Users/suedaturgut/Projects/MoodleBackEnd/Week3_7/obj/Debug/net7.0/Week3_7.pdb
+/Users/suedaturgut/Projects/MoodleBackEnd/Week3_7/obj/Debug/net7.0/Week3_7.genruntimeconfig.cache
+/Users/suedaturgut/Projects/MoodleBackEnd/Week3_7/obj/Debug/net7.0/ref/Week3_7.dll
