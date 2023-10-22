@@ -15,8 +15,9 @@ class Program
 
         bool allItemsGreater = numbers.All(number => number > 40);
 
-
-        /*bool allItemsGreater = true;
+        
+        /* The alternative and long way of 'All' 
+        bool allItemsGreater = true;
         foreach (int number in numbers)
         {
             if (number <= 40)
@@ -24,7 +25,6 @@ class Program
                 allItemsGreater = false;
                 break;
             }
-        this is the long way of all
         }*/
         Console.WriteLine(allItemsGreater);
         Console.ReadLine();
@@ -43,7 +43,6 @@ class Program
         #endregion
 
         #region Where
-
         List<Person> people = new List<Person>
            {
             new Person("Alice", "Smith", 30, Gender.Female),
